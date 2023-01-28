@@ -23,5 +23,6 @@
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=6aa6f8)
 
-<p align="left""><img src="https://github-readme-streak-stats.herokuapp.com/?user=thatsmanmeet&" alt="thatsmanmeet"/></p>                 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thatsmanmeet&show_icons=true&locale=en&layout=compact" alt="thatsmanmeet" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatsmanmeet&theme=nord&border_radius=5.1)](https://git.io/streak-stats)
+![Manmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsmanmeet&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmanmeet&layout=compact&theme=nord)
