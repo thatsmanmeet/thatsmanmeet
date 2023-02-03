@@ -6,7 +6,7 @@
   
 ### About Me 🙂
 
-- 🧑🏻‍💻 I'm currently learning **Python, C++ and Data Structures.**
+- 🧑🏻‍💻 I'm currently learning **Python and Data Structures.**
 - 🧐 I'm Interested in **Android and Web Development**.
 - 💖 Favourite Languages are **Kotlin and Javascript**.
 - 🤝🏻 Connect with me at **[thatsmanmeet.github.io](https://thatsmanmeet.github.io)**.
