@@ -26,5 +26,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatsmanmeet&theme=nord&border_radius=5.1)](https://git.io/streak-stats)
-![Manmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsmanmeet&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmanmeet&layout=compact&theme=nord)
