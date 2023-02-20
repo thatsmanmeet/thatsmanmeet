@@ -1,18 +1,16 @@
 <h1 align="center">Hey 👋, I'm Manmeet</h1>
-<h3 align="center" style="color:green;">Computer Science & Engineering Student</h3>
+<h3 align="center">Computer Science & Engineering Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thatsmanmeet&label=Profile%20views&color=0e75b6&style=flat" alt="thatsmanmeet"/></p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coding" width="500" src="coder.png" />
 <br/>  
   
-### About Me 🙂
-
+## About Me
 - 🧑🏻‍💻 I'm currently learning **Python and Data Structures.**
 - 🧐 I'm Interested in **Android and Web Development**.
 - 💖 Favourite Languages are **Kotlin and Javascript**.
-- 🤝🏻 Connect with me at **[thatsmanmeet.github.io](https://thatsmanmeet.github.io)**.
-
-### Technologies & Tools 🔧
-
+- 🤝🏻 Connect with me at <a href="https://thatsmanmeet.github.io" target="_blank"><strong>thatsmanmeet.github.io</strong></a>
+                                                                                       
+## Technologies & Tools 🔧
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
