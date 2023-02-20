@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Manmeet</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thatsmanmeet&label=Profile%20views&color=0e75b6&style=flat" alt="thatsmanmeet"/></p>
-<img align="right" alt="Coding" width="500" src="coder.png" />
+<img align="right" alt="Coding" width="450" src="coder.png" />
 <br/>  
   
 ## About Me
