@@ -23,5 +23,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thatsmanmeet&theme=blood-dark&border_radius=5.5&fire=FC7306&stroke=27BCFF&ring=FFA831)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thatsmanmeet&theme=nord)](https://github.com/thatsmanmeet)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmanmeet&layout=compact&theme=nord)
