@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Manmeet</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thatsmanmeet&label=Profile%20views&color=0e75b6&style=flat" alt="thatsmanmeet"/></p>
-<img align="right" alt="Coding" width="450" src="coder.png" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br/>  
   
 ## About Me
-- 🧑🏻‍💻 I'm currently learning **Python and Data Structures.**
+- 🧑🏻‍💻 I'm currently learning **Python.**
 - 🧐 I'm Interested in **Android and Web Development**.
 - 💖 Favourite Languages are **Kotlin and Javascript**.
 - 🤝🏻 Connect with me at <a href="https://thatsmanmeet.github.io" target="_blank"><strong>thatsmanmeet.github.io</strong></a>
