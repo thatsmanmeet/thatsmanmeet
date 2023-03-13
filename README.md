@@ -29,6 +29,5 @@
 
 ## Github Stats
 ![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsmanmeet&theme=nord_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=thatsmanmeet&theme=nord)
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thatsmanmeet&theme=nord)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thatsmanmeet&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmanmeet&layout=compact&theme=nord)
