@@ -1,10 +1,11 @@
-![manmeet's banner](Manmeet-banner.png)  
-<center> 
-<img src="https://komarev.com/ghpvc/?username=thatsmanmeet&label=Profile%20views&color=0e75b6&style=flat" alt="thatsmanmeet"/>
+![manmeet's banner](Manmeet-banner.png)
 
-<img src="https://img.shields.io/github/followers/thatsmanmeet.svg?style=social&label=Follow me&maxAge=2592000">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thatsmanmeet&label=Profile%20views&color=0e75b6&style=flat" alt="thatsmanmeet"/>
+  <img src="https://img.shields.io/github/followers/thatsmanmeet.svg?style=social&label=Follow me&maxAge=2592000" alt="follow me" />
+</p>
 
-</center>
+
 ## About Me
 - 🧑🏻‍💻 I'm currently learning **Python and DSA.**
 - 🧐 I'm Interested in **Android and Web Development**.
@@ -27,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Stats
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsmanmeet&theme=nord_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=thatsmanmeet&theme=nord)
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thatsmanmeet&theme=nord)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsmanmeet&theme=nord_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmanmeet&layout=compact&theme=nord)
