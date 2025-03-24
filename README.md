@@ -1,16 +1,14 @@
-## Hi there 👋
+![Github Banner](banner.png)
+#
+```js
 
-<!--
-**thatsmanmeet/thatsmanmeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const thatsmanmeet = {
+  name : "Manmeet Singh",
+  tech_stack: {
+    languages: ["JavaScript", "Kotlin"],
+    web : ["React", "NextJs", "Astro", "Express"],
+    mobile : ["React Native", "Jetpack Compose"],
+    db: ["MongoDB"],
+    tools : ["VSCode", "Android Studio", "Postman", "Git"]
+}
+```
