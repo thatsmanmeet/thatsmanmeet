@@ -7,9 +7,9 @@ const thatsmanmeet = {
   website : "Currently under development",
   tech_stack: {
     languages: ["JavaScript", "Kotlin"],
-    web : ["React", "NextJs", "Astro", "Express"],
+    web : ["React", "NextJs", "Astro", "TailwindCSS", "Express"],
     mobile : ["React Native", "Jetpack Compose"],
     db: ["MongoDB"],
-    tools : ["VSCode", "Android Studio", "Postman", "Git"]
+    tools : ["VSCode", "Android Studio", "Postman", "Bruno", "Git"]
 }
 ```
